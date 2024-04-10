@@ -1,5 +1,3 @@
-# Aravind Vengarai
-
 Welcome! I'm a recent graduate from Georgia Tech with a master's degree in Computer Science, embarking on my journey as a Software Engineer. Below is a collection of my academic accomplishments, work experiences, research, and projects that together paint a picture of my journey and expertise.
 
 - [Education](#education)
