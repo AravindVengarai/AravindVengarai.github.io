@@ -35,7 +35,7 @@ B.S. in Computer Science, 3.84/4.00 - Highest Honors (August 2019 – December 2
 
 ## Projects
 
-* Check out my [Projects Portfolio](./PROJECTS.md) for a detailed look at my work.
+* Check out my [Projects Portfolio](PROJECTS.md) for a detailed look at my work.
 
 
 ---
