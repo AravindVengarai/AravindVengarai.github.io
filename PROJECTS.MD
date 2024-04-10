@@ -43,7 +43,7 @@
 
 **Abstract:** Investigated four algorithms to solve the Minimum Vertex Cover Problem, focusing on efficiency and solution quality.
 
-- **[Paper](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [GitHub](https://github.com/AravindVengarai/DiffPrep)**
+- **[Paper](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [GitHub](https://github.com/AravindVengarai/CSE6140Project)**
 - **Conclusion:** Demonstrated the effectiveness of local search algorithms, especially FastVC, in providing viable solutions.
 
 ---
@@ -52,6 +52,6 @@
 
 **Challenge:** Developed to automate ID checks during the purchase of age-restricted products at retail POS systems, enhancing transaction efficiency and regulatory compliance.
 
-- **[Screens](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [GitHub](https://github.com/AravindVengarai/DiffPrep)**
+- **[Screens](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [GitHub](https://github.com/AravindVengarai/kerberos-pos)**
 - **Technology Stack:** React Native, Firestore Database, ID Analyzer API.
 - **Outcome:** Streamlined the age verification process, leading to quicker transactions and enhanced compliance.
