@@ -49,9 +49,9 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 **Objective:** Create a seamless delivery option for Facebook Marketplace and Craigslist users.
 
 **Technology Stack:**
-- React Native: For cross-platform app functionality
-- Node.js: To handle backend operations efficiently
-- Firestore: For real-time data handling and scalability
+- **React Native:** For cross-platform app functionality
+- **Node.js:** To handle backend operations efficiently
+- **Firestore:** For real-time data handling and scalability
 
 **Key Features:**
 - Simple item dispatch process for sellers
@@ -68,16 +68,17 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Strengthened skills in building scalable backend infrastructure
 - Recognized the importance of integrating user feedback to refine app features
 
+[**Demo**](https://www.youtube.com/watch?v=bAAWD3mCmRQ) | [**GitHub**](https://github.com/AravindVengarai/buzzEx)
 
-- **[Demo](https://www.youtube.com/watch?v=bAAWD3mCmRQ)** | **[GitHub](https://github.com/AravindVengarai/buzzEx)**
+---
 
 ### FarmSim - Java Farming Simulator
 
 **Objective:** Build an interactive farming simulator game with strategic and economic gameplay elements.
 
 **Technology Stack:**
-- Java for game logic and mechanics
-- JavaFX for user interface and graphical representation
+- **Java:** For game logic and mechanics
+- **JavaFX:** For user interface and graphical representation
 
 **Key Features:**
 - Crop cultivation and resource management
@@ -94,16 +95,18 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Improved proficiency in graphical user interface creation with JavaFX
 - Developed a deeper understanding of event-driven programming and its application in simulation games
 
-- **[Game](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view)** | **[GitHub](https://github.com/AravindVengarai/FarmGame)**
+[**Game**](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view) | [**GitHub**](https://github.com/AravindVengarai/FarmGame)
+
+---
 
 ### NBA Playoff Predictor
 
 **Objective:** Create a predictive model for NBA playoffs using machine learning techniques.
 
 **Technology Stack:**
-- Python for data processing and machine learning
-- Pandas for data manipulation
-- Scikit-learn for applying machine learning algorithms
+- **Python:** For data processing and machine learning
+- **Pandas:** For data manipulation
+- **Scikit-learn:** For applying machine learning algorithms
 
 **Key Features:**
 - Predictive modeling based on season performance data
@@ -120,61 +123,80 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Gained valuable experience in handling and analyzing large datasets for meaningful insights
 - Learned to fine-tune model parameters for improved predictive accuracy
 
-- **[GitHub](https://kimayamcolaco.github.io/CS7641-Team-25/)**
+[**GitHub**](https://kimayamcolaco.github.io/CS7641-Team-25/)
+
+---
 
 ### DiffPrep - Evaluating Transferability of Data Preprocessing Pipelines
 
 **Objective:** Investigate the potential for reusing preprocessing pipelines across different machine learning tasks to increase efficiency.
 
 **Technology Stack:**
-- Python for all algorithmic implementations and data processing.
+- **Python:** For all algorithmic implementations and data processing
 
 **Key Features:**
-- Employed similarity metrics (cosine, Manhattan, Euclidean, Chebyshev, Canberra distances) for performance assessment.
-- Utilized dimensionality reduction techniques (t-SNE, PCA, MDS) for enhanced data visualization and analysis.
+- Employed similarity metrics (cosine, Manhattan, Euclidean, Chebyshev, Canberra distances) for performance assessment
+- Utilized dimensionality reduction techniques (t-SNE, PCA, MDS) for enhanced data visualization and analysis
 
 **Impact:**
-- Streamlined the machine learning process by identifying reusable pipelines.
-- Highlighted the key metrics and techniques that can predict pipeline adaptability.
-- Proposed a methodology for reusing optimized pipelines for various tasks, potentially reducing the time and resources needed for model development.
+- Streamlined the machine learning process by identifying reusable pipelines
+- Highlighted the key metrics and techniques that can predict pipeline adaptability
+- Proposed a methodology for reusing optimized pipelines for various tasks, potentially reducing the time and resources needed for model development
 
 **Learnings:**
-- Mastered the application of Python for a range of data preprocessing tasks and algorithmic solutions.
-- Deepened understanding of how preprocessing affects machine learning model performance across tasks.
-- Gained insights into the selection of appropriate preprocessing techniques and how they influence the efficiency of machine learning workflows.
+- Mastered the application of Python for a range of data preprocessing tasks and algorithmic solutions
+- Deepened understanding of how preprocessing affects machine learning model performance across tasks
+- Gained insights into the selection of appropriate preprocessing techniques and how they influence the efficiency of machine learning workflows
 
-- **[Paper](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view)** | **[GitHub](https://github.com/AravindVengarai/DiffPrep)**
+[**Paper**](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+
+---
 
 ### Minimum Vertex Cover Problem
-Analyzed algorithms for the Minimum Vertex Cover Problem in graph theory, emphasizing the balance between speed and solution quality.
-- **[Paper](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view)** | **[GitHub](https://github.com/AravindVengarai/DiffPrep)**
+
+**Objective:** Analyze and implement algorithms to solve the Minimum Vertex Cover Problem, an NP-hard problem in graph theory.
+
+**Technology Stack:**
+- **C++ and Python:** For implementing and testing algorithms
+
+**Key Features:**
+- Branch-and-Bound algorithm for exact solutions
+- FastVC and NuMVC algorithms for approximate but faster solutions
+- Comparative analysis of performance and efficiency
+
+**Impact:**
+- Advanced the field of computational theory by exploring practical applications of complex algorithms
+- Provided detailed insights into algorithm efficiency under different conditions
+
+**Learnings:**
+- Enhanced problem-solving skills in computational complexity
+- Gained experience in algorithm design and optimization for NP-hard problems
+
+[**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+
+---
 
 ### Kerberos POS - ID Verification App for POS Systems
 
-**Objective:** Automate age verification in retail POS systems for enhanced efficiency and regulatory adherence.
+**Objective:** Automate age verification processes at point-of-sale to enhance efficiency and regulatory compliance.
 
 **Technology Stack:**
-- React Native for frontend development
-- Firestore for secure data management
-- ID Analyzer API for real-time ID verification
+- **React Native:** For app development
+- **Firestore:** For data management
+- **ID Analyzer API:** For real-time ID verification
 
 **Key Features:**
-- Quick account setup with loyalty number integration
-- Automated and manual ID verification methods
-- Real-time facial recognition for instant age validation
+- Automated ID scanning with real-time facial recognition for age verification
+- Manual verification option for handling discrepancies
+- Integration with POS systems for seamless operation
 
 **Impact:**
-- Streamlined the checkout process for age-restricted sales
-- Reduced manual verification errors and wait times
-- Ensured regulatory compliance with minimal staff training
+- Reduced the need for manual checks, enhancing transaction speed and accuracy
+- Ensured compliance with regulatory requirements for age-restricted sales
 
 **Learnings:**
-- Advanced cross-platform app development techniques
-- Implemented robust API interactions for sensitive data handling
-- Balanced user experience with stringent security requirements
+- Developed expertise in integrating complex systems within retail environments
+- Enhanced understanding of regulatory compliance in software development
 
-- **[Screens](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view)** | **[GitHub](https://github.com/AravindVengarai/DiffPrep)**
+[**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
 
-## Connect
-
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/aravindvengarai/) or check out [my GitHub](https://github.com/aravindvengarai) for more on my projects and experiences.
