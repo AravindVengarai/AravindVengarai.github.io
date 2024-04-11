@@ -41,7 +41,6 @@ Atlanta, GA (Jan 2021 – Dec 2023)
 Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Developed an Android app for tracking PTSD patients' progress, utilized by 11 doctors from Emory University.
 - Integrated services for app usage, geolocation, body movement, and audio data collection, improving patient treatment efficacy.
-
 ## Projects
 
 ### BuzzEx - Marketplace Delivery App
@@ -68,7 +67,37 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Strengthened skills in building scalable backend infrastructure
 - Recognized the importance of integrating user feedback to refine app features
 
-[**Demo**](https://www.youtube.com/watch?v=bAAWD3mCmRQ) | [**GitHub**](https://github.com/AravindVengarai/buzzEx)
+**Resources:**
+- [**Demo**](https://www.youtube.com/watch?v=bAAWD3mCmRQ) | [**GitHub**](https://github.com/AravindVengarai/buzzEx)
+
+---
+
+### Kerberos POS - ID Verification App for POS Systems
+
+**Objective:** Automate age verification in retail POS systems for enhanced efficiency and regulatory adherence.
+
+**Technology Stack:**
+- **React Native:** For frontend development
+- **Firestore:** For secure data management
+- **ID Analyzer API:** For real-time ID verification
+
+**Key Features:**
+- Quick account setup with loyalty number integration
+- Automated and manual ID verification methods
+- Real-time facial recognition for instant age validation
+
+**Impact:**
+- Streamlined the checkout process for age-restricted sales
+- Reduced manual verification errors and wait times
+- Ensured regulatory compliance with minimal staff training
+
+**Learnings:**
+- Advanced cross-platform app development techniques
+- Implemented robust API interactions for sensitive data handling
+- Balanced user experience with stringent security requirements
+
+**Resources:**
+- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
 
 ---
 
@@ -95,7 +124,8 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Improved proficiency in graphical user interface creation with JavaFX
 - Developed a deeper understanding of event-driven programming and its application in simulation games
 
-[**Game**](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view) | [**GitHub**](https://github.com/AravindVengarai/FarmGame)
+**Resources:**
+- [**Game**](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view) | [**GitHub**](https://github.com/AravindVengarai/FarmGame)
 
 ---
 
@@ -123,41 +153,17 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Gained valuable experience in handling and analyzing large datasets for meaningful insights
 - Learned to fine-tune model parameters for improved predictive accuracy
 
-[**GitHub**](https://kimayamcolaco.github.io/CS7641-Team-25/)
-
----
-
-### DiffPrep - Evaluating Transferability of Data Preprocessing Pipelines
-
-**Objective:** Investigate the potential for reusing preprocessing pipelines across different machine learning tasks to increase efficiency.
-
-**Technology Stack:**
-- **Python:** For all algorithmic implementations and data processing
-
-**Key Features:**
-- Employed similarity metrics (cosine, Manhattan, Euclidean, Chebyshev, Canberra distances) for performance assessment
-- Utilized dimensionality reduction techniques (t-SNE, PCA, MDS) for enhanced data visualization and analysis
-
-**Impact:**
-- Streamlined the machine learning process by identifying reusable pipelines
-- Highlighted the key metrics and techniques that can predict pipeline adaptability
-- Proposed a methodology for reusing optimized pipelines for various tasks, potentially reducing the time and resources needed for model development
-
-**Learnings:**
-- Mastered the application of Python for a range of data preprocessing tasks and algorithmic solutions
-- Deepened understanding of how preprocessing affects machine learning model performance across tasks
-- Gained insights into the selection of appropriate preprocessing techniques and how they influence the efficiency of machine learning workflows
-
-[**Paper**](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+**Resources:**
+- [**GitHub**](https://kimayamcolaco.github.io/CS7641-Team-25/)
 
 ---
 
 ### Minimum Vertex Cover Problem
 
-**Objective:** Analyze and implement algorithms to solve the Minimum Vertex Cover Problem, an NP-hard problem in graph theory.
+**Objective:** Analyze different algorithms to solve the Minimum Vertex Cover Problem, an NP-hard problem in graph theory.
 
 **Technology Stack:**
-- **C++ and Python:** For implementing and testing algorithms
+- **C++ and Python:** For computational experiments
 
 **Key Features:**
 - Branch-and-Bound algorithm for exact solutions
@@ -165,38 +171,36 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Comparative analysis of performance and efficiency
 
 **Impact:**
-- Advanced the field of computational theory by exploring practical applications of complex algorithms
-- Provided detailed insights into algorithm efficiency under different conditions
+- Provided insights into algorithm efficiency and computational limits.
 
 **Learnings:**
 - Enhanced problem-solving skills in computational complexity
 - Gained experience in algorithm design and optimization for NP-hard problems
 
-[**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+**Resources:**
+- [**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
 
 ---
 
-### Kerberos POS - ID Verification App for POS Systems
+### DiffPrep - Evaluating Transferability of Data Preprocessing Pipelines
 
-**Objective:** Automate age verification processes at point-of-sale to enhance efficiency and regulatory compliance.
+**Objective:** Investigate the efficiency of reusing preprocessing pipelines in machine learning across different tasks within the same dataset.
 
 **Technology Stack:**
-- **React Native:** For app development
-- **Firestore:** For data management
-- **ID Analyzer API:** For real-time ID verification
+- **Python:** For all algorithmic implementations and data processing.
 
 **Key Features:**
-- Automated ID scanning with real-time facial recognition for age verification
-- Manual verification option for handling discrepancies
-- Integration with POS systems for seamless operation
+- Utilizing similarity metrics (cosine, Manhattan, Euclidean, Chebyshev, Canberra distances) and dimensionality reduction techniques (t-SNE, PCA, MDS)
 
 **Impact:**
-- Reduced the need for manual checks, enhancing transaction speed and accuracy
-- Ensured compliance with regulatory requirements for age-restricted sales
+- These findings streamline the machine learning process by potentially reducing redundant preprocessing steps, allowing for quicker and more resource-efficient model development.
 
 **Learnings:**
-- Developed expertise in integrating complex systems within retail environments
-- Enhanced understanding of regulatory compliance in software development
+- Our research indicates that machine learning workflows can be made more efficient through reusable preprocessing pipelines, setting the stage for faster, more cost-effective model development.
 
-[**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+**Resources:**
+- [**Paper**](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
 
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or check out my [GitHub](https://github.com/your-github-profile) for more on my projects and experiences.
