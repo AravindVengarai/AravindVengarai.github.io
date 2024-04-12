@@ -1,5 +1,6 @@
 Welcome! I'm a recent graduate from Georgia Tech with a master's degree in Computer Science, embarking on my journey as a Software Engineer. Below is a collection of my academic accomplishments, work experiences, research, and projects that together paint a picture of my journey and expertise.
 
+- [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Research](#research)
@@ -9,8 +10,8 @@ Welcome! I'm a recent graduate from Georgia Tech with a master's degree in Compu
 ## Education
 
 **Georgia Institute of Technology** - Atlanta, GA  
-- M.S. in Computer Science, 3.85/4.00 - Highest Honors (Aug 2019 – Dec 2023)  
-- B.S. in Computer Science, 3.84/4.00 - Highest Honors (Aug 2019 – Dec 2023)
+- M.S. in Computer Science, 3.85/4.00 - Highest Honors (Jan 2023 – Dec 2023)  
+- B.S. in Computer Science, 3.84/4.00 - Highest Honors (Aug 2019 – Dec 2022)
 
 ## Work Experience
 
@@ -41,6 +42,9 @@ Atlanta, GA (Jan 2021 – Dec 2023)
 Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Developed an Android app for tracking PTSD patients' progress, utilized by 11 doctors from Emory University.
 - Integrated services for app usage, geolocation, body movement, and audio data collection, improving patient treatment efficacy.
+
+---
+
 ## Projects
 
 ### BuzzEx - Marketplace Delivery App
@@ -97,7 +101,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Balanced user experience with stringent security requirements
 
 **Resources:**
-- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/kerberos-pos)
 
 ---
 
@@ -163,7 +167,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 **Objective:** Analyze different algorithms to solve the Minimum Vertex Cover Problem, an NP-hard problem in graph theory.
 
 **Technology Stack:**
-- **C++ and Python:** For computational experiments
+- **Python:** For computational experiments
 
 **Key Features:**
 - Branch-and-Bound algorithm for exact solutions
@@ -178,7 +182,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Gained experience in algorithm design and optimization for NP-hard problems
 
 **Resources:**
-- [**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+- [**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/CSE6140Project)
 
 ---
 
@@ -203,4 +207,4 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or check out my [GitHub](https://github.com/your-github-profile) for more on my projects and experiences.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aravindvengarai/) or check out my [GitHub](https://github.com/AravindVengarai) for more on my projects and experiences.
