@@ -207,4 +207,6 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 
 ---
 
+## Connect
+
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aravindvengarai/) or check out my [GitHub](https://github.com/AravindVengarai) for more on my projects and experiences.
