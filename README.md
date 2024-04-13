@@ -1,4 +1,6 @@
-Welcome! I'm a recent graduate from Georgia Tech with a master's degree in Computer Science, embarking on my journey as a Software Engineer. Below is a collection of my academic accomplishments, work experiences, research, and projects that together paint a picture of my journey and expertise.
+Welcome! I'm a motivated and goal-oriented computer science master’s graduate from Georgia Institute of Technology
+leveraging software development expertise to generate savings of $8,000 annually for a company within 1
+month. Developed critical REST APIs for a high-traffic landing page, engaging 75% of daily users.
 
 - [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing)
 - [Education](#education)
