@@ -17,6 +17,12 @@ month. Developed critical REST APIs for a high-traffic landing page, engaging 75
 
 ## Work Experience
 
+Software Engineer, Lumen Technologies  - Monroe, LA                                                  Jan 2024 - April 2024
+- Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, cutting manual processing by 70% and boosting reliability
+- Developed 6 Python backend APIs and React UI screens for an app to benchmark security stats and monitor incident performance among 200 employees
+- Enhanced security by developing an automated password reset tool that updates six Azure KV secrets and synchronizes with PostgreSQL to refresh corresponding passwords, configurable across five environments
+
+
 ### Lumen Technologies - Software Engineering Intern
 Monroe, LA (May 2023 – Aug 2023)
 - Enhanced automation for production support using GitHub Actions, reducing refresh time from 3 hours to 5 minutes and saving over $8,000 annually.
