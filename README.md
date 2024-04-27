@@ -18,16 +18,16 @@ month. Developed critical REST APIs for a high-traffic landing page, engaging 75
 ## Work Experience
 
 Software Engineer, Lumen Technologies  - Monroe, LA                                                  Jan 2024 - April 2024
-- Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, cutting manual processing by 70% and boosting reliability
-- Developed 6 Python backend APIs and React UI screens for an app to benchmark security stats and monitor incident performance among 200 employees
-- Enhanced security by developing an automated password reset tool that updates six Azure KV secrets and synchronizes with PostgreSQL to refresh corresponding passwords, configurable across five environments
+- Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, eliminating the need for manual executions saving 10 teams 10 minutes weekly
+- Developed python backend APIs and a reactive UI for an app to benchmark security stats and monitor incident performance for the entire 200 member organization
+- Strengthened security with an automated password reset tool, updating six Azure Key Vault secrets and synchronizing with PostgreSQL for password refresh, configurable across five environments
 
 
 ### Lumen Technologies - Software Engineering Intern
 Monroe, LA (May 2023 – Aug 2023)
 - Enhanced automation for production support using GitHub Actions, reducing refresh time from 3 hours to 5 minutes and saving over $8,000 annually.
-- Led UI test automation by integrating Playwright with Testkube, achieving a 70% reduction in test creation effort.
-- Implemented a feature for suspending/resuming deployments, ensuring environment consistency during demos.
+- Led UI test automation by integrating Playwright with Testkube, achieving a 75% reduction in test creation effort.
+- Developed UI feature that suspends/resumes deployments, ensuring environment stability during demos, saving 1 day’s effort every 2 weeks
 
 ### NCR Corporation - Software Engineering Intern
 Atlanta, GA (May 2022 – Aug 2022)
