@@ -29,7 +29,7 @@ Monroe, LA (May 2023 – Aug 2023)
 - Led UI test automation by integrating Playwright with Testkube, achieving a 75% reduction in test creation effort.
 - Developed UI feature that suspends/resumes deployments, ensuring environment stability during demos, saving 1 day’s effort every 2 weeks
 
-### NCR Corporation - Software Engineering Intern
+### NCR Corporation - Software Engineering Intern                                              
 Atlanta, GA (May 2022 – Aug 2022)
 - Built Go-based REST APIs for a POS application, aiding 75% of user flows interacting with the UI.
 - Devised an Apache Beam dataflow pipeline to transfer transaction logs to Big Query, improving query times by 10x.
