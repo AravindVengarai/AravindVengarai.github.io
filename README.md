@@ -152,9 +152,9 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - **Scikit-learn:** For applying machine learning algorithms
 
 **Key Features:**
-- Utilized season performance data to forecast playoff contenders and simulate playoff outcomes. Implemented Support Vector Machine (SVM) classifier for supervised learning to predict playoff matchups and assess team performance.
+- Utilized season performance data to forecast playoff contenders and simulate playoff outcomes using the Support Vector Machine (SVM) classifier. 
 - Conducted in-depth statistical analysis of team and player performances to derive meaningful insights.
-- Leveraged machine learning models to simulate playoff outcomes and forecast potential matchups. Applied Principal Component Analysis (PCA) to reduce data dimensions and Gaussian Mixture Model (GMM) clustering to categorize teams into playoff and non-playoff groups based on performance metrics.
+- Leveraged machine learning models including Principal Component Analysis (PCA) and Gaussian Mixture Model (GMM) clustering to simulate playoff outcomes and forecast potential matchups.
 
 **Impact:**
 - Provided a data-driven approach to understanding team performances
