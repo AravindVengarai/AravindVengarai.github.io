@@ -1,8 +1,6 @@
-Welcome! I'm a motivated and goal-oriented computer science master’s graduate from Georgia Institute of Technology
-leveraging software development expertise to generate savings of $8,000 annually for a company within 1
-month. Developed critical REST APIs for a high-traffic landing page, engaging 75% of daily users.
+Welcome! I'm a motivated and goal-oriented computer science master’s graduate from Georgia Institute of Technology leveraging software development expertise to generate savings of $8,000 annually for a company within 1 month. Developed critical REST APIs for a high-traffic landing page, engaging 75% of daily users.
 
-- [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing){:target="_blank"}
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Research](#research)
@@ -22,7 +20,6 @@ Monroe, LA (Jan 2024 - April 2024)
 - Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, eliminating the need for manual executions saving 10 teams 10 minutes weekly
 - Developed python backend APIs and a reactive UI for an app to benchmark security stats and monitor incident performance for the entire 200 member organization
 - Strengthened security with an automated password reset tool, updating six Azure Key Vault secrets and synchronizing with PostgreSQL for password refresh, configurable across five environments
-
 
 ### Lumen Technologies - Software Engineering Intern
 Monroe, LA (May 2023 – Aug 2023)
@@ -81,7 +78,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Recognized the importance of integrating user feedback to refine app features
 
 **Resources:**
-- [**Demo**](https://www.youtube.com/watch?v=bAAWD3mCmRQ) | [**GitHub**](https://github.com/AravindVengarai/buzzEx)
+- [**Demo**](https://www.youtube.com/watch?v=bAAWD3mCmRQ){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/buzzEx){:target="_blank"}
 
 ---
 
@@ -110,7 +107,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Balanced user experience with stringent security requirements
 
 **Resources:**
-- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/kerberos-pos)
+- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/kerberos-pos){:target="_blank"}
 
 ---
 
@@ -129,7 +126,9 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 
 **Impact:**
 - Provided an educational tool for understanding farm management
-- Engaged users with interactive gameplay and strategic planning
+- Engaged users with
+
+ interactive gameplay and strategic planning
 - Fostered economic thinking with market and resource management aspects
 
 **Learnings:**
@@ -138,7 +137,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Developed a deeper understanding of event-driven programming and its application in simulation games
 
 **Resources:**
-- [**Game**](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view) | [**GitHub**](https://github.com/AravindVengarai/FarmGame)
+- [**Game**](https://drive.google.com/file/d/1dmjMEeIxskIK4vFdaMX1y77rbvE7u4Id/view){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/FarmGame){:target="_blank"}
 
 ---
 
@@ -167,7 +166,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Learned to fine-tune model parameters for improved predictive accuracy
 
 **Resources:**
-- [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/) | [**Github**](https://github.com/AravindVengarai/ML-unsupervised-learning)
+- [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/){:target="_blank"} | [**Github**](https://github.com/AravindVengarai/ML-unsupervised-learning){:target="_blank"}
 
 ---
 
@@ -191,7 +190,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Gained experience in algorithm design and optimization for NP-hard problems
 
 **Resources:**
-- [**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view) | [**GitHub**](https://github.com/AravindVengarai/CSE6140Project)
+- [**Paper**](https://drive.google.com/file/d/11Hp4_ue1MzMnjoaARkMggKBd8X4Of8IX/view){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/CSE6140Project){:target="_blank"}
 
 ---
 
@@ -212,10 +211,10 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Our research indicates that machine learning workflows can be made more efficient through reusable preprocessing pipelines, setting the stage for faster, more cost-effective model development.
 
 **Resources:**
-- [**Paper**](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view) | [**GitHub**](https://github.com/AravindVengarai/DiffPrep)
+- [**Paper**](https://drive.google.com/file/d/1z8VgEsyKtG1HST7_e-BNn2rQT1QgKE4F/view){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/DiffPrep){:target="_blank"}
 
 ---
 
 ## Connect
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aravindvengarai/) or check out my [GitHub](https://github.com/AravindVengarai) for more on my projects and experiences.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aravindvengarai/){:target="_blank"} or check out my [GitHub](https://github.com/AravindVengarai){:target="_blank"} for more on my projects and experiences.
