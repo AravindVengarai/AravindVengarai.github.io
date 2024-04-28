@@ -152,9 +152,9 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - **Scikit-learn:** For applying machine learning algorithms
 
 **Key Features:**
-- Predictive modeling based on season performance data
-- Statistical analysis of team and player performances
-- Simulation of playoff outcomes for forecasting
+- Utilized season performance data to forecast playoff contenders and simulate playoff outcomes. Implemented Support Vector Machine (SVM) classifier for supervised learning to predict playoff matchups and assess team performance.
+- Conducted in-depth statistical analysis of team and player performances to derive meaningful insights.
+- Leveraged machine learning models to simulate playoff outcomes and forecast potential matchups. Applied Principal Component Analysis (PCA) to reduce data dimensions and Gaussian Mixture Model (GMM) clustering to categorize teams into playoff and non-playoff groups based on performance metrics.
 
 **Impact:**
 - Provided a data-driven approach to understanding team performances
@@ -167,7 +167,8 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Learned to fine-tune model parameters for improved predictive accuracy
 
 **Resources:**
-- [**GitHub**](https://kimayamcolaco.github.io/CS7641-Team-25/)
+- [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/)
+- [**Github**]([https://kimayamcolaco.github.io/CS7641-Team-25/](https://github.com/AravindVengarai/ML-unsupervised-learning))
 
 ---
 
