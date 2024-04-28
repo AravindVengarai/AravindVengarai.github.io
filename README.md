@@ -126,9 +126,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 
 **Impact:**
 - Provided an educational tool for understanding farm management
-- Engaged users with
-
- interactive gameplay and strategic planning
+- Engaged users with interactive gameplay and strategic planning
 - Fostered economic thinking with market and resource management aspects
 
 **Learnings:**
