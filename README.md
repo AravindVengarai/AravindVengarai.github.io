@@ -167,7 +167,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Learned to fine-tune model parameters for improved predictive accuracy
 
 **Resources:**
-- [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/) | [**Github**](https://github.com/AravindVengarai/ML-unsupervised-learning))
+- [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/) | [**Github**](https://github.com/AravindVengarai/ML-unsupervised-learning)
 
 ---
 
