@@ -1,6 +1,6 @@
 Welcome! I'm a motivated and goal-oriented computer science master’s graduate from Georgia Institute of Technology leveraging software development expertise to generate savings of $8,000 annually for a company within 1 month. Developed critical REST APIs for a high-traffic landing page, engaging 75% of daily users.
 
-- [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing){:target="_blank"}
+- [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing)
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Research](#research)
