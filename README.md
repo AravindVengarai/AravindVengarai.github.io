@@ -107,7 +107,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 - Balanced user experience with stringent security requirements
 
 **Resources:**
-- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view){:target="_blank"} | [**GitHub**](https://github.com/AravindVengarai/kerberos-pos){:target="_blank"}
+- [**Screens**](https://drive.google.com/file/d/1kfEaINtPV8QG9mH9IS7UCTEH9CFVIgPl/view) | [**GitHub**](https://github.com/AravindVengarai/kerberos-pos){:target="_blank"}
 
 ---
 
