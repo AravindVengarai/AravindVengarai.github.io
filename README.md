@@ -168,7 +168,7 @@ Georgia Tech, College of Computing (Dec 2020 – May 2021)
 
 **Resources:**
 - [**Webpage**](https://kimayamcolaco.github.io/CS7641-Team-25/)
-- [**Github**]([https://kimayamcolaco.github.io/CS7641-Team-25/](https://github.com/AravindVengarai/ML-unsupervised-learning))
+- [**Github**](https://github.com/AravindVengarai/ML-unsupervised-learning))
 
 ---
 
