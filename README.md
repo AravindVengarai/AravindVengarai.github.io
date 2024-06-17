@@ -1,4 +1,4 @@
-Welcome! I'm a motivated and goal-oriented computer science master’s graduate from Georgia Institute of Technology leveraging software development expertise to generate savings of $8,000 annually for a company within 1 month. Developed critical REST APIs for a high-traffic landing page, engaging 75% of daily users.
+Welcome! I'm an accomplished Georgia Tech computer science master’s graduate with Python, Java, cloud technologies, and full-stack development expertise. Optimized automation processes as an intern, generating $8,000 in annual savings within 1 month. Developed critical REST APIs for a high-traffic platform, engaging 75% of daily users.
 
 - [Resume](https://drive.google.com/file/d/19O3HTjfADN0sgcVp0yVefY6DjLECmgAa/view?usp=sharing){:target="_blank"} 
 - [Education](#education)
@@ -17,37 +17,39 @@ Welcome! I'm a motivated and goal-oriented computer science master’s graduate 
 
 ### Lumen Technologies - Software Engineering
 Monroe, LA (Jan 2024 - April 2024)
-- Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, eliminating the need for manual executions saving 10 teams 10 minutes weekly
-- Developed python backend APIs and a reactive UI for an app to benchmark security stats and monitor incident performance for the entire 200 member organization
-- Strengthened security with an automated password reset tool, updating 6 Azure Key Vault secrets and synchronizing with PostgreSQL for password refresh, configurable across five environments
+- Implemented a data warehousing solution using an ETL Python script in Docker, automating PostgreSQL to MongoDB transfers, eliminating the need for manual executions, saving 10 teams 10 minutes weekly
+- Developed Python backend APIs and a reactive UI for an app to benchmark security statistics and monitor incident performance for the 200-member organization.
+- Created an automated password reset tool that updated 6 Azure Key Vault secrets, synchronized with PostgreSQL for password refresh and was configurable across 5 environments.
 
 ### Lumen Technologies - Software Engineering Intern
 Monroe, LA (May 2023 – Aug 2023)
-- Enhanced automation for production support using GitHub Actions, reducing refresh time from 3 hours to 5 minutes and saving over $8,000 annually.
-- Led UI test automation by integrating Playwright with Testkube, achieving a 75% reduction in test creation effort.
-- Developed UI feature that suspends/resumes deployments, ensuring environment stability during demos, saving 1 day’s effort every 2 weeks
+- Retooled the automation that refreshes the production support environment using GitHub actions, reducing the refresh time from 3 hours to 5 minutes and saving over $8000 annually.
+- Led the integration of Playwright with Testkube for UI automation testing, reducing test creation effort by 75% and enhancing build quality confidence.
+- Generated a UI feature that suspends/resumes deployments, ensuring environment stability during demos.
 
 ### NCR Corporation - Software Engineering Intern                                              
 Atlanta, GA (May 2022 – Aug 2022)
-- Built Go-based REST APIs for a POS application, aiding 75% of user flows interacting with the UI.
-- Devised an Apache Beam dataflow pipeline to transfer transaction logs to Big Query, improving query times by 10x.
+- Crafted Go-based REST APIs for a POS analytics application, integrating real-time data analysis with BigQuery and MongoDB, serving 75% of UI interactions.
+- Engineered an Apache Beam dataflow pipeline transferring transaction logs to Big Query via Pub-Sub, cutting query times by 10x and easing backend load. 
 - Automated compilation of dataflow templates to GCP storage buckets, streamlining deployments.
 
 ### Bashpole Software, Inc. - Software Engineering Intern
 North Webster, IN (May 2021 – July 2021)
-- Developed a JSP full-stack application, enhancing user engagement and conversion rates for thousands of viewers monthly.
-- Decreased intern onboarding time by 67% by consolidating landing page projects into a single Maven project.
+- Developed a JSP full-stack application for dynamic landing pages, enhancing user engagement and conversion rates for 1000s of users monthly.
+- Reduced intern onboarding period by 67% by refactoring landing page projects into a unified Maven project.
 
 ### Georgia Tech, College of Computing - Teaching Assistant
 Atlanta, GA (Jan 2021 – Dec 2023)
-- Educated over 400 students in data structures and algorithms, and over 200 in database systems.
+- Taught the data structures and algorithms course to over 400 1st and 2nd-year students for two semesters in Java
+- Instructed seniors and graduate students on the database systems course with a class size of 200 using MySQL
+- Conducted weekly 75-minute recitations to a section of 50 students
 
 ## Research
 
 ### Undergraduate Research Assistant
 Georgia Tech, College of Computing (Dec 2020 – May 2021)
-- Developed an Android app for tracking PTSD patients' progress, utilized by 11 doctors from Emory University.
-- Integrated services for app usage, geolocation, body movement, and audio data collection, improving patient treatment efficacy.
+- Developed an Android app used by 11 Emory University doctors, as part of an NSF funded research project, to track PTSD patients’ progress through exposure therapy, improving treatment efficacy
+- Integrated 4 background services collecting app usage, geolocation, body movement, and audio data, enabling data-driven treatment adjustments for better patient outcomes
 
 ---
 
